@@ -1,0 +1,196 @@
+body{
+  background: darkslateblue;
+}
+
+.imgBox{
+  background-image: url('photo.png');
+  position: relative;
+  top: 7px;
+  left: 5px;
+  height: 145px;
+  width: 145px;
+  cursor: pointer;
+}
+
+.whiteBox1{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+}
+
+.hold{
+  border: solid red 4px;
+}
+
+.dashed{
+  background: rgb(214, 206, 206);
+  border-style: dashed;
+}
+
+.hide{
+  display: none;
+}
+button{
+  position: relative;
+  left: 180px;
+  top: 80px;
+}
+.bb{
+  border: 2px solid green;
+  text-align: center;
+  padding: 70px;
+  
+}
+.whiteBox2{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+  left: -8px;
+}
+.cc{
+border: 2px solid green;
+padding: 70px;
+
+}
+.whiteBox3{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+  left: -20px;
+}
+.whiteBox4{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+  top: px;
+  left:-165px ;
+}
+
+.whiteBox5{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+  top: 50px;
+  left:-260px ;
+}
+
+.whiteBox6{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+  top: -60px;
+  left:-360px ;
+}
+
+.whiteBox7{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+ left: 4px;
+ top: px;
+}
+
+.whiteBox8{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+ left: -34px;
+ top: px;
+}
+.whiteBox9{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+ left: 340px;
+ top: px;
+}
+.whiteBox10{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+ left: 300px;
+ top: px;
+}
+
+.whiteBox11{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+ left: 100px;
+ top: 50px;
+}
+
+.whiteBox12{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 50%;
+  border: 3px black solid;
+  position: relative;
+ left: -10px;
+ top: -20px;
+}
+
+button{
+  position: relative;
+  top: 43px;
+  left: 720px;
+  padding: 8px;
+  width: 100px;
+}
